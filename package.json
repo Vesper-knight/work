@@ -1,0 +1,29 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "description": "task1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vesper-knight/work.git"
+  },
+  "keywords": [
+    "task",
+    "site",
+    "css",
+    "html"
+  ],
+  "author": "Arseniy <asch@nextmail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vesper-knight/work/issues"
+  },
+  "homepage": "https://github.com/Vesper-knight/work#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
